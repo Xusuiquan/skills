@@ -1,0 +1,7 @@
+interface:
+  display_name: "聊天话题"
+  short_description: "把话题整理成适合社交聊天的有趣场景"
+  default_prompt: "Use $chat-topic to turn 港乐 into a playful social chat topic pack."
+
+policy:
+  allow_implicit_invocation: true
