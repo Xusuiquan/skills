@@ -1,5 +1,5 @@
 interface:
-  display_name: "she-say"
+  display_name: "她说"
   short_description: "把女生一句话变成真实想法 回复 提问和推进话题"
   default_prompt: "Use $she-say to analyze one sentence she sent and generate likely real thoughts, ten natural replies, ten easy follow-up questions, values lines, and extendable topics."
 

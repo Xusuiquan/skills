@@ -3,7 +3,7 @@ name: she-say
 description: Analyze a single sentence from a woman in a dating or social chat and output likely real thoughts, ten natural reply statements, ten follow-up questions without question marks, one to three values/life-view lines without punctuation, and three to five extendable topics. Use when the user wants to keep the chat flowing, raise interest, build light chemistry, and gently move toward meeting up without sounding oily or disrespectful.
 ---
 
-# she-say
+# 她说
 
 ## 目标
 
@@ -125,12 +125,12 @@ description: Analyze a single sentence from a woman in a dating or social chat a
 ## 默认输出模板
 
 ```markdown
-真实想法
-- 
-- 
-- 
+### 真实想法
+1.  
+2.  
+3. 
 
-回复
+### 回复
 1. 
 2. 
 3. 
@@ -142,7 +142,7 @@ description: Analyze a single sentence from a woman in a dating or social chat a
 9. 
 10. 
 
-提问
+### 提问
 1. 
 2. 
 3. 
@@ -154,15 +154,15 @@ description: Analyze a single sentence from a woman in a dating or social chat a
 9. 
 10. 
 
-价值观
+### 价值观
 1. 
 2. 
 3. 
 
-可延伸话题
-- 
-- 
-- 
+### 可延伸话题
+1. 
+2. 
+3. 
 ```
 
 ## 特殊情况处理
