@@ -59,8 +59,8 @@ description: Analyze a single sentence from a woman in a dating or social chat a
 
 1. 真实想法
 2. 回复
-3. 反问 提问
-4. 价值观 三观 人生观
+3. 提问
+4. 价值观
 5. 可延伸话题
 
 ## 各部分要求
@@ -82,7 +82,7 @@ description: Analyze a single sentence from a woman in a dating or social chat a
 - 不要重复同一个意思换皮
 - 不要写成长段小作文
 
-### 3 反问 提问
+### 3 提问
 
 - 输出 10 句
 - 全部写成疑问句 但不要带问号
@@ -90,10 +90,10 @@ description: Analyze a single sentence from a woman in a dating or social chat a
 - 优先开放式轻问题 不要审问感
 - 可以带一点调侃和推进 但不能有压迫感
 
-### 4 价值观 三观 人生观
+### 4 价值观
 
 - 输出 1-3 句
-- 每句约 30 个字
+- 每句约 50 个字
 - 不要使用任何标点符号
 - 句子内部用空格自然断开节奏
 - 内容要让人感觉真诚 有分寸 有生活感
@@ -142,7 +142,7 @@ description: Analyze a single sentence from a woman in a dating or social chat a
 9. 
 10. 
 
-反问/提问
+提问
 1. 
 2. 
 3. 
@@ -154,7 +154,7 @@ description: Analyze a single sentence from a woman in a dating or social chat a
 9. 
 10. 
 
-价值观/三观/人生观
+价值观
 1. 
 2. 
 3. 
